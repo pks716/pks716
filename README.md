@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pks716 - a freshser with beginner knowledge and aim to be better.
+- 👋 Hi, I’m @pks716 - a fresher knowledge of ML and related computing tehnologies.
 - 👀 I’m interested in data science, machine learning as well as artificial intelligence.
-- 🌱 I’m currently learning basics of the same.
+- 🌱 I’m currently exploring the domain and trying to upskill myself.
 - 💞️ I’m looking to collaborate on similar projects that will give me exposure to how things work.
 - 📫 How to reach me - pkumarsingh716@gmail.com
 
