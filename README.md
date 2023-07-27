@@ -2,7 +2,7 @@
 
      I am a third year engineering undergrad student. I strive to learn about new technologies and open to actively work on them.
 
-- 👀 I’m interested in anything related to Computing technologies - Be it software of hardware.
+- 👀 I’m interested in anything related to Computing technologies - Be it software or hardware.
 - 🖥️ The domain that fascinates me is AI especially ML & DL.
 - 🌱 I’m currently learning Java and MERN stack.
 - 💞️ I’m looking to collaborate on similar projects that will give me exposure to how things work.
