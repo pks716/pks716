@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @pks716 - a fresher with knowledge of ML and related computing tehnologies.
-- 👀 I’m interested in data science, machine learning as well as artificial intelligence.
-- 🌱 I’m currently learning DSA, Databases and exploring the domain to upskill myself.
+👋 Hi, I’m Peeyush
+
+     I am a third year engineering undergrad student. I strive to learn about new technologies and open to actively work on them.
+
+- 👀 I’m interested in anything related to Computing technologies - Be it software of hardware.
+- 🖥️ The domain that fascinates me is AI especially ML & DL.
+- 🌱 I’m currently learning Java and MERN stack.
 - 💞️ I’m looking to collaborate on similar projects that will give me exposure to how things work.
+- 🤔 I want help with good projects contribution.
 - 📫 How to reach me - pkumarsingh716@gmail.com
 
 <!---
