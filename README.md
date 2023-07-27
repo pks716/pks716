@@ -6,7 +6,7 @@
 - 🖥️ The domain that fascinates me is AI especially ML & DL.
 - 🌱 I’m currently learning Java and MERN stack.
 - 💞️ I’m looking to collaborate on similar projects that will give me exposure to how things work.
-- 🤔 I want help with good projects contribution.
+- 🤔 I want help with good project contribution.
 - 📫 How to reach me - pkumarsingh716@gmail.com
 
 <!---
