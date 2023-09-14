@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in anything related to Computing technologies - Be it software or hardware.
 - 🖥️ The domain that fascinates me is AI especially ML & DL.
-- 🌱 I’m currently learning Java and MERN stack.
+- 🌱 I’m currently exploring Data Sciences and related technologies.
 - 💞️ I’m looking to collaborate on similar projects that will give me exposure to how things work.
 - 🤔 I want help with good project contribution.
 - 📫 How to reach me - pkumarsingh716@gmail.com
