@@ -1,6 +1,6 @@
 👋 Hi, I’m Peeyush
 
-     I am a final year engineering undergrad student. I strive to learn about new technologies and open to actively work on them.
+     A final year engineering undergrad student. I strive to learn about new technologies and try to actively work on them.
 
 - 👀 I’m interested in anything related to Computing technologies - Be it software or hardware.
 - 🖥️ The domain that fascinates me is AI especially ML & DL.
