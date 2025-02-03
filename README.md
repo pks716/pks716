@@ -1,12 +1,11 @@
 👋 Hi, I’m Peeyush
 
-     A final year engineering undergrad student. I strive to learn about new technologies and try to actively work on them.
+     I am a first-year postgrad student of Intelligent Systems. My field of study is the application of Artificial Intelligence in Medical Imaging. I would love to collaborate on similar projects.
 
-- 👀 I’m interested in anything related to Computing technologies - Be it software or hardware.
-- 🖥️ The domain that fascinates me is AI especially ML & DL.
-- 🌱 I’m currently exploring Data Sciences and related technologies.
-- 💞️ I’m looking to collaborate on similar projects that will give me exposure to how things work.
-- 🤔 I want help with good project contribution.
+- 👀 I’m interested in anything related to Artificial Intelligence and its applications in various domains.
+- 🌱 I’m working on enhancement and segmentation models using medical imaging.
+- 💞️ I’m looking to collaborate on similar projects that can lead to solutions for challenges in this field.
+- 🤔 I want to help advance the AI-assisted healthcare field for the benefit of all humankind.
 - 📫 How to reach me - pkumarsingh716@gmail.com
 
 <!---
