@@ -1,6 +1,6 @@
 👋 Hi, I’m Peeyush
 
-     I am a first-year postgrad student of Intelligent Systems. My field of study is the application of Artificial Intelligence in Medical Imaging. I would love to collaborate on similar projects.
+     I am a second-year postgrad student in Intelligent Systems. My field of study is the application of Artificial Intelligence in Medical Imaging. I would love to collaborate on similar projects.
 
 - 👀 I’m interested in anything related to Artificial Intelligence and its applications in various domains.
 - 🌱 I’m working on enhancement and segmentation models using medical imaging.
